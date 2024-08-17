@@ -1,0 +1,1 @@
+This repository contains basic C code that has been rewritten in assembly using the IAS instruction set architecture (ISA). We have developed a Python-based assembler that converts the assembly code into a machine file, which can be read by our processor. The processor itself is implemented in Python and simulates the IAS processor by executing the machine file.
